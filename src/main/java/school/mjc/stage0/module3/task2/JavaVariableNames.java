@@ -9,6 +9,6 @@ public class JavaVariableNames {
         int underscore = 10000;
         int harp = 100000;
         int star = 1000000;
-        int x = 1000000;
+        int name  = 1000000;
     }
 }
